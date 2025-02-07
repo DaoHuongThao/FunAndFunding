@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/CKS-166/Fun-And-Funding-Front-end.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/CKS-166/Fun-And-Funding-Api.git
